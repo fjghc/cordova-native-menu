@@ -1,0 +1,13 @@
+[{
+  "id": "config",
+  "title": "設定",
+  "icon": "ic_menu_manage"
+}, {
+  "id": "help",
+  "title": "ヘルプ",
+  "icon": "ic_menu_help"
+}, {
+  "id": "about",
+  "title": "アプリ情報",
+  "icon": "ic_menu_info_details"
+}]
